@@ -1,2 +1,2 @@
 # pterodactyl-vps
-Pterodactyl VPS Egg
+A powerful and lightweight Virtual Private Server (VPS) egg for Pterodactyl Panel, supporting multiple architectures and operating systems.
