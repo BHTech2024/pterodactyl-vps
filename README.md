@@ -12,7 +12,9 @@ A powerful and lightweight Virtual Private Server (VPS) egg for Pterodactyl Pane
     🚀 Custom SSH server
 
 🏗️ Supported Architectures
-Architecture 	Status 	Notes
+
 amd64 	✅ Full Support 	Recommended for most users
+
 arm64 	✅ Full Support 	Ideal for ARM-based servers
+
 riscv64 	⚠️ Limited Support 	Requires custom rootfs images
